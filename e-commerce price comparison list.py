@@ -4,7 +4,7 @@ import numpy as np
 import csv
 from datetime import datetime
 
-LINK ="https://www.amazon.ca/?tag=hydcaabkg-20&hvadid=677796472754&hvpos=&hvnetw=g&hvrand=15072934465970188752&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1002131&hvtargid=kwd-31636821&ref=pd_sl_2gqjnc4wf3_e&hydadcr=11828_13481604"
+LINK =""
 
 
 def get_prices_by_link(link):
